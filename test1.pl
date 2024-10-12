@@ -16,15 +16,12 @@ print "John Paul's age = $data{'John Paul'}\n";
 print "Lisa's age = $data{'Lisa'}\n";
 print "Kumar's age = $data{'Kumar'}\n";
 =cut
-
-
-
+$a = 100 ;
+unless( $a == 10 ){
+    print "a 給定的條件為 \'fales\'\n" ;
+}else {
+    print " a 給定的條件為 \'true\'\n " ;
+}
+print "a得值為$a\n" ;
 
  
-#!/usr/bin/perl
- 
-@nums = (1..20);
-print "替换前 - @nums\n";
- 
-splice(@nums, 5, 5, 21..25); 
-print "替换后 - @nums\n";

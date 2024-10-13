@@ -16,12 +16,14 @@ print "John Paul's age = $data{'John Paul'}\n";
 print "Lisa's age = $data{'Lisa'}\n";
 print "Kumar's age = $data{'Kumar'}\n";
 =cut
-$a = 100 ;
-unless( $a == 10 ){
-    print "a 給定的條件為 \'fales\'\n" ;
-}else {
-    print " a 給定的條件為 \'true\'\n " ;
-}
-print "a得值為$a\n" ;
 
- 
+#for($a = 0 ; $a < 10 ; $a = $a + 1){
+    #print "a = $a\n";
+#}
+
+@rock= qw \flintstone slate rubble\ ;
+
+foreach $rocks (@rock) {
+print " $rocks \n";
+}
+print " @rock\n";

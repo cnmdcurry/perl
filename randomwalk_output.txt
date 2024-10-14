@@ -1,0 +1,300 @@
+Run #1
+# end-to-end distance: (N, Re)=(1000, 26.4841166768111)
+
+Run #2
+# end-to-end distance: (N, Re)=(1000, 35.7399545812842)
+
+Run #3
+# end-to-end distance: (N, Re)=(1000, 27.1162128791905)
+
+Run #4
+# end-to-end distance: (N, Re)=(1000, 24.9246325785179)
+
+Run #5
+# end-to-end distance: (N, Re)=(1000, 15.1313854781406)
+
+Run #6
+# end-to-end distance: (N, Re)=(1000, 12.5201933624261)
+
+Run #7
+# end-to-end distance: (N, Re)=(1000, 36.532056358575)
+
+Run #8
+# end-to-end distance: (N, Re)=(1000, 32.3186591647652)
+
+Run #9
+# end-to-end distance: (N, Re)=(1000, 45.2974435185799)
+
+Run #10
+# end-to-end distance: (N, Re)=(1000, 31.1054605424076)
+
+Run #11
+# end-to-end distance: (N, Re)=(1000, 21.3965658345211)
+
+Run #12
+# end-to-end distance: (N, Re)=(1000, 31.36769654098)
+
+Run #13
+# end-to-end distance: (N, Re)=(1000, 24.1914360069728)
+
+Run #14
+# end-to-end distance: (N, Re)=(1000, 37.2515543238748)
+
+Run #15
+# end-to-end distance: (N, Re)=(1000, 12.3030297040692)
+
+Run #16
+# end-to-end distance: (N, Re)=(1000, 38.7156223784435)
+
+Run #17
+# end-to-end distance: (N, Re)=(1000, 35.4698981883746)
+
+Run #18
+# end-to-end distance: (N, Re)=(1000, 10.9570096252348)
+
+Run #19
+# end-to-end distance: (N, Re)=(1000, 43.2902390920006)
+
+Run #20
+# end-to-end distance: (N, Re)=(1000, 42.1032321818372)
+
+Run #21
+# end-to-end distance: (N, Re)=(1000, 47.4878008495169)
+
+Run #22
+# end-to-end distance: (N, Re)=(1000, 18.1686636281048)
+
+Run #23
+# end-to-end distance: (N, Re)=(1000, 32.4300668622289)
+
+Run #24
+# end-to-end distance: (N, Re)=(1000, 11.9856996997475)
+
+Run #25
+# end-to-end distance: (N, Re)=(1000, 21.2764505737707)
+
+Run #26
+# end-to-end distance: (N, Re)=(1000, 36.7272044478579)
+
+Run #27
+# end-to-end distance: (N, Re)=(1000, 26.9975108933136)
+
+Run #28
+# end-to-end distance: (N, Re)=(1000, 26.1532590761975)
+
+Run #29
+# end-to-end distance: (N, Re)=(1000, 23.1785220686555)
+
+Run #30
+# end-to-end distance: (N, Re)=(1000, 34.3114733195988)
+
+Run #31
+# end-to-end distance: (N, Re)=(1000, 26.8449721234384)
+
+Run #32
+# end-to-end distance: (N, Re)=(1000, 42.9536143312454)
+
+Run #33
+# end-to-end distance: (N, Re)=(1000, 29.0893387037276)
+
+Run #34
+# end-to-end distance: (N, Re)=(1000, 36.6844631309025)
+
+Run #35
+# end-to-end distance: (N, Re)=(1000, 25.2304742276454)
+
+Run #36
+# end-to-end distance: (N, Re)=(1000, 32.0803059249806)
+
+Run #37
+# end-to-end distance: (N, Re)=(1000, 31.5758256825395)
+
+Run #38
+# end-to-end distance: (N, Re)=(1000, 13.0914994588615)
+
+Run #39
+# end-to-end distance: (N, Re)=(1000, 30.7524308774648)
+
+Run #40
+# end-to-end distance: (N, Re)=(1000, 17.5004183515839)
+
+Run #41
+# end-to-end distance: (N, Re)=(1000, 28.623462876656)
+
+Run #42
+# end-to-end distance: (N, Re)=(1000, 15.3589356560165)
+
+Run #43
+# end-to-end distance: (N, Re)=(1000, 23.9865775803521)
+
+Run #44
+# end-to-end distance: (N, Re)=(1000, 28.4163054922615)
+
+Run #45
+# end-to-end distance: (N, Re)=(1000, 43.6096990093625)
+
+Run #46
+# end-to-end distance: (N, Re)=(1000, 25.5120989726885)
+
+Run #47
+# end-to-end distance: (N, Re)=(1000, 35.6341487228787)
+
+Run #48
+# end-to-end distance: (N, Re)=(1000, 36.3327144948546)
+
+Run #49
+# end-to-end distance: (N, Re)=(1000, 39.1200647648485)
+
+Run #50
+# end-to-end distance: (N, Re)=(1000, 32.6990326411436)
+
+Run #51
+# end-to-end distance: (N, Re)=(1000, 37.4012142662048)
+
+Run #52
+# end-to-end distance: (N, Re)=(1000, 42.6867144854721)
+
+Run #53
+# end-to-end distance: (N, Re)=(1000, 15.9814984216028)
+
+Run #54
+# end-to-end distance: (N, Re)=(1000, 26.8356107303696)
+
+Run #55
+# end-to-end distance: (N, Re)=(1000, 46.4941560816916)
+
+Run #56
+# end-to-end distance: (N, Re)=(1000, 21.3739959079535)
+
+Run #57
+# end-to-end distance: (N, Re)=(1000, 27.2731217721067)
+
+Run #58
+# end-to-end distance: (N, Re)=(1000, 29.6425355626173)
+
+Run #59
+# end-to-end distance: (N, Re)=(1000, 18.4284936340413)
+
+Run #60
+# end-to-end distance: (N, Re)=(1000, 39.5379044165711)
+
+Run #61
+# end-to-end distance: (N, Re)=(1000, 57.1496639363793)
+
+Run #62
+# end-to-end distance: (N, Re)=(1000, 18.0148622512821)
+
+Run #63
+# end-to-end distance: (N, Re)=(1000, 32.7003938670116)
+
+Run #64
+# end-to-end distance: (N, Re)=(1000, 14.0357311784356)
+
+Run #65
+# end-to-end distance: (N, Re)=(1000, 22.0046214108404)
+
+Run #66
+# end-to-end distance: (N, Re)=(1000, 23.5006822368861)
+
+Run #67
+# end-to-end distance: (N, Re)=(1000, 32.6706844775739)
+
+Run #68
+# end-to-end distance: (N, Re)=(1000, 29.2960708148049)
+
+Run #69
+# end-to-end distance: (N, Re)=(1000, 14.0330477251326)
+
+Run #70
+# end-to-end distance: (N, Re)=(1000, 25.4640328982304)
+
+Run #71
+# end-to-end distance: (N, Re)=(1000, 45.2476029711721)
+
+Run #72
+# end-to-end distance: (N, Re)=(1000, 22.2308012380342)
+
+Run #73
+# end-to-end distance: (N, Re)=(1000, 10.3001426839045)
+
+Run #74
+# end-to-end distance: (N, Re)=(1000, 17.091515108115)
+
+Run #75
+# end-to-end distance: (N, Re)=(1000, 57.5069317624457)
+
+Run #76
+# end-to-end distance: (N, Re)=(1000, 20.39400713355)
+
+Run #77
+# end-to-end distance: (N, Re)=(1000, 27.2879435925137)
+
+Run #78
+# end-to-end distance: (N, Re)=(1000, 57.4955530540295)
+
+Run #79
+# end-to-end distance: (N, Re)=(1000, 37.5592157692301)
+
+Run #80
+# end-to-end distance: (N, Re)=(1000, 32.1843989927312)
+
+Run #81
+# end-to-end distance: (N, Re)=(1000, 24.934458891293)
+
+Run #82
+# end-to-end distance: (N, Re)=(1000, 32.0649077485177)
+
+Run #83
+# end-to-end distance: (N, Re)=(1000, 35.0279210111591)
+
+Run #84
+# end-to-end distance: (N, Re)=(1000, 16.6146639739956)
+
+Run #85
+# end-to-end distance: (N, Re)=(1000, 49.3306422801989)
+
+Run #86
+# end-to-end distance: (N, Re)=(1000, 23.9275267833051)
+
+Run #87
+# end-to-end distance: (N, Re)=(1000, 48.2730174620121)
+
+Run #88
+# end-to-end distance: (N, Re)=(1000, 53.4928384792408)
+
+Run #89
+# end-to-end distance: (N, Re)=(1000, 47.399706332148)
+
+Run #90
+# end-to-end distance: (N, Re)=(1000, 40.2941847314319)
+
+Run #91
+# end-to-end distance: (N, Re)=(1000, 25.082133852564)
+
+Run #92
+# end-to-end distance: (N, Re)=(1000, 38.2164065895808)
+
+Run #93
+# end-to-end distance: (N, Re)=(1000, 40.2044010746092)
+
+Run #94
+# end-to-end distance: (N, Re)=(1000, 35.0240000476295)
+
+Run #95
+# end-to-end distance: (N, Re)=(1000, 38.9629564123411)
+
+Run #96
+# end-to-end distance: (N, Re)=(1000, 39.3044431590263)
+
+Run #97
+# end-to-end distance: (N, Re)=(1000, 26.1016746923463)
+
+Run #98
+# end-to-end distance: (N, Re)=(1000, 28.1901480843287)
+
+Run #99
+# end-to-end distance: (N, Re)=(1000, 40.8457264981947)
+
+Run #100
+# end-to-end distance: (N, Re)=(1000, 34.3477209919641)
+

@@ -16,11 +16,11 @@ for (my $i=1; $i<=$N; $i+=1 )
                    $R[$i-1][2]+$u2 ];
 }  #for i
 
-
+=pod
  for (my $i=0; $i<=$N; $i+=1 ) {
        printf "%-4d  %9.6f %9.6f %9.6f\n", $i,  $R[$i][0], $R[$i][1], $R[$i][2]; 
 }
-
+=cut
  #compute end-to-end distance
 
 my $Re=sqrt(  ($R[$N][0]-$R[0][0])**2
